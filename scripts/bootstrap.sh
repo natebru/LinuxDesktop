@@ -6,3 +6,4 @@ sudo apt install openssh-server -y
 sudo systemctl enable ssh
 sudo systemctl start ssh
 
+## Install docker from here: https://docs.docker.com/engine/install/ubuntu/
